@@ -1,13 +1,14 @@
 ## Hi there 👋
+Welcome to my profile:💙💙
+My name is Ana Carolina 
 
-<!--
-**Anaca07/Anaca07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• I'm studying at Alura
 
-Here are some ideas to get you started:
+• I am developing in the JavaScript language
 
-- 🔭 My name is Ana Carolina
-- 🌱 I'm learning how to use Alura
-- 👯 I am 17 years old
-- 😄 Pronouns: She/Her
+• I use this space to organize and share my projects developed.I use this space to organize and share my projects developed.
 
--->
+You can contact me :📫
+00001097501589sp@al.educacao.sp.gov.br
+
+@alurastartestudante
