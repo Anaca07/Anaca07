@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 My name is Ana Carolina.
-- 🌱 I'm learning how to use Alura.
-- 👯 I am 17 years old.
+- 🔭 My name is Ana Carolina
+- 🌱 I'm learning how to use Alura
+- 👯 I am 17 years old
 - 😄 Pronouns: She/Her
 
 -->
